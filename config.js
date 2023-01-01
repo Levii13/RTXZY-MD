@@ -3,28 +3,28 @@ Untuk gambar background menu ada - di plugins menu
 untuk lainya saran jangan di ubah bre nanti eror*/
 
 /*global owner*/
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
+global.owner = ['6281399318253']  
+global.mods = ['6281399318253'] 
+global.prems = ['6281399318253']
 /*Nomor Owner & payment*/
-global.nameowner = 'BOTCAHX'
-global.numberowner = '6281395861695' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
+global.nameowner = 'han reveriè.'
+global.numberowner = '6281399318253' 
+global.dana = '6285773906324'
+global.pulsa = '6285773906324'
+global.gopay = '6281399318253'
 /*Nama Bot & Grouplink*/
-global.namebot = 'RTXZY-MD'
-global.gc = 'https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0'
-global.web = 'https://github.com/BOTCAHX'
-global.instagram = 'https://instagram.com/prm2.0'
+global.namebot = 'han reveriè-MD'
+global.gc = 'https://chat.whatsapp.com/FfmvYN3xdw336dx4Qr1EMP'
+global.web = 'https://github.com/Levii13'
+global.instagram = 'https://instagram.com/ardfq_?igshid=YmMyMTA2M2Y='
 /*global wm*/
 global.lolkey = 'rey2k22'
 global.zenzkey = 'BagasPrdn'
-global.wm = '© R-TXZY-MD'
+global.wm = '© han reveriè'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
-global.wm4 = '© BOT RTXZY'
+global.wm2 = '⫹⫺ han reveriè'
+global.wm3 = '© han reveriè'
+global.wm4 = '© BOT han'
 global.fla = 'https://api.tiodevhost.my.id/api/textpro/glitch?text='
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -32,7 +32,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.author = 'Bot WhatsApp\han reveriè.'
 /*Rest api setting*/
 global.APIs = { // API Prefix
   // name: 'https://website'
